@@ -1,0 +1,5 @@
+aws_access_key = "AKIA5WPE7J4IZN6K6TGC"
+aws_secret_key = "nKZiA9V3yyMytGAWe60p35PVLeWou1054wzvkoxT"
+aws_region     = "ap-south-1"
+cluster_name   = "baishakhee-eks-new"
+s3_bucket_name = "your-bucket-name"
